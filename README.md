@@ -109,7 +109,7 @@ Git (for cloning)
 🚀 Quick Start
 
 Clone the Repository
-Bashgit clone https://github.com/Sriram-1704/Student_Result_Portal.git
+Bashgit clone https://github.com/Harshavardhanappu/Student_Result_portal.git
 
 cd Student_Result_Portal
 
